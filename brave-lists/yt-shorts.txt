@@ -1,4 +1,4 @@
-! Youtube Shorts
+! Title: Youtube Shorts
 ! Main page
 youtube.com##ytd-rich-section-renderer:has(a[href^="/shorts/"])
 m.youtube.com##.rich-section-content
