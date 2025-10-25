@@ -15,5 +15,3 @@ youtube.com###items.yt-horizontal-list-renderer > ytd-reel-item-renderer
 ! shorts icons (desktop and mobile)
 youtube.com##.pivot-shorts.pivot-bar-item-tab
 youtube.com##.yt-simple-endpoint[title="Shorts"]
-! Updated rules
-youtube.com##.ytGridShelfViewModelHost:has-text(Shorts)
